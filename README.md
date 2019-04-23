@@ -14,6 +14,8 @@ Sin関数をSNNにより学習する
 
 ![sinlearnE](https://user-images.githubusercontent.com/43668533/56568783-ad919100-65f2-11e9-934d-5356264654cc.png)
 
+E：適応度, P：学習データ数（今回は100）, tk：（k番目の教師値）, fk：（k番目の出力値）
+
 rete_cut（数と密度によるパルス表現）でsin関数を学習
 
 したいこと：
