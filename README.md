@@ -2,10 +2,15 @@
 Sin関数をSNNにより学習する
 
 学習する関数
+
 ![sin_learning_function](https://user-images.githubusercontent.com/43668533/56569021-24c72500-65f3-11e9-958c-11eae398b8e5.png)
 
-自分用：
-現在
+学習する関数のデータ点
+
+![sin_learn_dot](https://user-images.githubusercontent.com/43668533/56688182-ffc9d380-6712-11e9-8580-112f7411ba71.png)
+
+データ数は100データ。
+
 入力：現在のYの値、出力：１時刻先のYの値
 
 適応度計算（Xの刻み幅は100）
